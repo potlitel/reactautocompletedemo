@@ -76,3 +76,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 [Services Layer approach in ReactJS](https://dev.to/chema/services-layer-approach-in-reactjs-1eo2)
 [{JSON} Placeholder](https://jsonplaceholder.typicode.com/)
 [Dependency injection in React](https://itnext.io/dependency-injection-in-react-6fa51488509f)
+[Center elements with Tailwind CSS](https://daily-dev-tips.com/posts/center-elements-with-tailwind-css/)
+
+### using useContext hook
+
+[Dependency Injection /Services pattern for React (inspired by Angular)](https://dev.to/dansolhan/simple-dependency-injection-functionality-for-react-518j)
+[Injectable services in React](https://the-guild.dev/blog/injectable-services-in-react)
+
+[Universal Dependency Injection](https://thomasburlesonia.medium.com/https-medium-com-thomasburlesonia-universal-dependency-injection-86a8c0881cbc)
+[Advanced Dependency Injection in React](https://blog.bitsrc.io/advanced-dependency-injection-in-react-af962bb94d35)
