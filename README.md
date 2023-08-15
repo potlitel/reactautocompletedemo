@@ -68,3 +68,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Recomended links
+
+[Why You Need an API Layer and How To Build It in React](https://semaphoreci.com/blog/api-layer-react)
+[How to Create a Three-Layer Application with React](https://medium.com/programming-essentials/how-to-create-a-three-layer-application-with-react-8621741baca0) OJO, clonar y probar
+[Services Layer approach in ReactJS](https://dev.to/chema/services-layer-approach-in-reactjs-1eo2)
+[{JSON} Placeholder](https://jsonplaceholder.typicode.com/)
+[Dependency injection in React](https://itnext.io/dependency-injection-in-react-6fa51488509f)

@@ -1,23 +1,27 @@
-import logo from './logo.svg';
-import './App.css';
-
+import TextField from "@mui/material/TextField";
+import Autocomplete from "@mui/material/Autocomplete";
+import React, { useState, useEffect } from "react";
+import "./App.css";
 function App() {
+  let [data, setdata] = useState(null);
+  // 3. Create out useEffect function
+  useEffect(() => {
+    fetch("https://therichpost.com/testjsonapi/users/")
+      .then((response) => response.json())
+      // 4. Setting *data* to the API DATA that we received from the response above
+      .then((data) => setdata(data));
+  }, []);
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Autocomplete
+        disablePortal
+        id="combo-box-demo"
+        options={data}
+        getOptionLabel={(option) => option.name}
+        sx={{ width: 300 }}
+        renderInput={(params) => <TextField {...params} label="Users" />}
+      />
     </div>
   );
 }
