@@ -13,7 +13,7 @@ function App() {
   }, []);
 
   return (
-    <div className="App">
+    <div className="flex items-center justify-center h-screen">
       <Autocomplete
         disablePortal
         id="combo-box-demo"
@@ -22,6 +22,9 @@ function App() {
         sx={{ width: 300 }}
         renderInput={(params) => <TextField {...params} label="Users" />}
       />
+      {/* <div class="grid place-items-center h-screen">
+        Centered using Tailwind Grid
+      </div> */}
     </div>
   );
 }
