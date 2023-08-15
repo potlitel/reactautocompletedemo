@@ -77,6 +77,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 [{JSON} Placeholder](https://jsonplaceholder.typicode.com/)
 [Dependency injection in React](https://itnext.io/dependency-injection-in-react-6fa51488509f)
 [Center elements with Tailwind CSS](https://daily-dev-tips.com/posts/center-elements-with-tailwind-css/)
+[Autocomplete](https://mui.com/material-ui/react-autocomplete/)
 
 ### using useContext hook
 
