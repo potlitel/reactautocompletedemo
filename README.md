@@ -85,6 +85,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 [Autocomplete](https://mui.com/material-ui/react-autocomplete/)
 
+[TypeError: Cannot read properties of undefined (reading 'data')](https://github.com/axios/axios/issues/5655)
+
 ### using useContext hook
 
 [Dependency Injection /Services pattern for React (inspired by Angular)](https://dev.to/dansolhan/simple-dependency-injection-functionality-for-react-518j)
