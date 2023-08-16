@@ -72,17 +72,25 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### Recomended links
 
 [Why You Need an API Layer and How To Build It in React](https://semaphoreci.com/blog/api-layer-react)
+
 [How to Create a Three-Layer Application with React](https://medium.com/programming-essentials/how-to-create-a-three-layer-application-with-react-8621741baca0) OJO, clonar y probar
+
 [Services Layer approach in ReactJS](https://dev.to/chema/services-layer-approach-in-reactjs-1eo2)
+
 [{JSON} Placeholder](https://jsonplaceholder.typicode.com/)
+
 [Dependency injection in React](https://itnext.io/dependency-injection-in-react-6fa51488509f)
+
 [Center elements with Tailwind CSS](https://daily-dev-tips.com/posts/center-elements-with-tailwind-css/)
+
 [Autocomplete](https://mui.com/material-ui/react-autocomplete/)
 
 ### using useContext hook
 
 [Dependency Injection /Services pattern for React (inspired by Angular)](https://dev.to/dansolhan/simple-dependency-injection-functionality-for-react-518j)
+
 [Injectable services in React](https://the-guild.dev/blog/injectable-services-in-react)
 
 [Universal Dependency Injection](https://thomasburlesonia.medium.com/https-medium-com-thomasburlesonia-universal-dependency-injection-86a8c0881cbc)
+
 [Advanced Dependency Injection in React](https://blog.bitsrc.io/advanced-dependency-injection-in-react-af962bb94d35)
